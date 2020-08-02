@@ -27,6 +27,7 @@
         <activity android:name=".VideosEducativos"></activity>
         <activity android:name=".MainActivity"></activity>
 
+        
         <service android:name=".Token">
             <intent-filter>
                 <action android:name="com.google.firebase.INTACE_ID_EVENT" />
